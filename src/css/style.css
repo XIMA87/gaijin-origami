@@ -1,0 +1,49 @@
+.navbar {
+    background-color: tan;
+}
+
+.navbar-brand img {
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+.quemsou {
+    background-color: antiquewhite;
+}
+
+.loja {
+    background-color: antiquewhite;
+}
+
+.origamis {
+    background-color: antiquewhite;
+}
+
+.redes {
+    background-color: antiquewhite;
+}
+
+.sociais {
+    padding: 5px 0 5px 0;
+
+}
+
+.footer {
+    background-color: antiquewhite;
+}
+
+.ddcolor {
+    background-color: antiquewhite;
+    margin-top: -8px;
+    margin-bottom: -8px;
+    
+}
+
+.quemsouimage {
+    padding-top: 40px;
+}
+
+.footer {
+    padding-top: 30px;
+    text-align: center;
+}
